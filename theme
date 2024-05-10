@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-@font-face {
-    font-family: 'emoji';
-    src: url('https://goldenlys.github.io/WizardUI/NotoColorEmoji.ttf') format('truetype');
-}
-
 :root {
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
   --lightness-600-660: 0%;
